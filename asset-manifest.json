@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ee79ce7.chunk.css",
+    "main.js": "/static/js/main.b7fb5c6f.chunk.js",
+    "main.js.map": "/static/js/main.b7fb5c6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ccba6fa6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ccba6fa6.js.map",
+    "static/js/2.5cd1b301.chunk.js": "/static/js/2.5cd1b301.chunk.js",
+    "static/js/2.5cd1b301.chunk.js.map": "/static/js/2.5cd1b301.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.4db6a5b8.chunk.js": "/static/js/3.4db6a5b8.chunk.js",
+    "static/js/3.4db6a5b8.chunk.js.map": "/static/js/3.4db6a5b8.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.a0a24a5b.chunk.js": "/static/js/4.a0a24a5b.chunk.js",
+    "static/js/4.a0a24a5b.chunk.js.map": "/static/js/4.a0a24a5b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f801164a37645ce66176c935e9394d7c.js": "/precache-manifest.f801164a37645ce66176c935e9394d7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.2ee79ce7.chunk.css.map": "/static/css/main.2ee79ce7.chunk.css.map",
+    "static/js/2.5cd1b301.chunk.js.LICENSE.txt": "/static/js/2.5cd1b301.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Vinoba-Bhave-University-VBU-1.png": "/static/media/Vinoba-Bhave-University-VBU-1.8a29c8ad.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/theHackingSchool.png": "/static/media/theHackingSchool.541254fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccba6fa6.js",
+    "static/js/2.5cd1b301.chunk.js",
+    "static/css/main.2ee79ce7.chunk.css",
+    "static/js/main.b7fb5c6f.chunk.js"
+  ]
+}
